@@ -1,1 +1,1 @@
-linea cambiada por la rama A
+linea cambiada por la rama A y la rama B (conflicto resuelto)
